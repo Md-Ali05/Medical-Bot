@@ -1,6 +1,6 @@
 # Medical QA Bot using Quantised GGUF Llama 2 LLM
 
-This project implements a Medical Question-Answering (QA) Bot that leverages the quantised GGUF (Generalized Grand Unified Factorization) version of Llama 2 Language Model (LLM) downloaded from Hugging Face. The bot utilizes the Langchain library to work with the LLM. The information for the bot is extracted from a Gale Medicine Encyclopedia, which is then converted to vectors using a recursive character text splitter. The user interface (UI) of the project is built using Chainlit.
+This project implements a Medical Question-Answering (QA) Bot that leverages the quantised GGUF version of Llama 2 Language Model (LLM) downloaded from Hugging Face. The bot utilizes the Langchain library to work with the LLM. The information for the bot is extracted from a Gale Medicine Encyclopedia, which is then converted to vectors using a recursive character text splitter. The user interface (UI) of the project is built using Chainlit.
 
 ## Project Components
 
